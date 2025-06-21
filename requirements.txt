@@ -68,7 +68,7 @@ pickleshare==0.7.5
 Pillow==7.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.12.2
+protobuf==4.25.8
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -105,7 +105,7 @@ torchvision==0.6.1+cu101
 tornado==6.0.4
 traitlets==4.3.3
 typing-extensions==3.7.4.2
-urllib3==1.25.9
+urllib3==2.5.0
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
